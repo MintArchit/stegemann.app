@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>STEGEMANN</title>
+    <title>STEGEMANN. Die IT.</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on STEGEMANN</description>
-    <generator>Hugo</generator>
+    <description>Recent content on STEGEMANN. Die IT.</description>
+    <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
   </channel>
