@@ -1,0 +1,347 @@
+<!doctype html>
+<html 
+  id="scrollTop" 
+  lang="de"
+  dir="ltr">
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Lebensfreude Begleitdienst | STEGEMANN. IT.</title>
+    <meta name="description" content="Besuchsdienste &amp; Begleitdienste Alltagsunterstützungsdienste für Erwachsene und Senioren
+Wir bieten maßgeschneiderte Unterstützung im täglichen Leben, um Ihnen ein selbstbestimmtes und angenehmes Leben in Ihrem eigenen Zuhause zu ermöglichen. Unser liebevolles und kompetentes Team steht Ihnen bei verschiedensten Aufgaben zur Seite, von der Haushaltsführung über Einkäufe bis hin zu Begleitungen und sozialen Aktivitäten. Unsere Dienstleistungen zielen darauf ab, Ihren Alltag zu erleichtern, Ihnen Gesellschaft zu leisten und Ihre Lebensqualität zu verbessern. Ganz gleich, welche Unterstützung Sie benötigen – wir sind für Sie da.">
+    
+    
+
+
+    
+
+    
+      <link rel="shortcut icon" href="https://ik.imagekit.io/0gg1vghhv/favicon.ico?updatedAt=1717973575655" type="image/x-icon" />
+
+    
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+
+    
+    <style>
+      .bi {
+        vertical-align: -.125em;
+        fill: currentColor;
+      }
+
+      .btn-bd-primary {
+        --bd-violet-bg: #712cf9;
+        --bd-violet-rgb: 112.520718, 44.062154, 249.437846;
+
+        --bs-btn-font-weight: 600;
+        --btn-color: #ffffff;
+        --bs-btn-bg: #712cf9;
+        --bs-btn-border-color: #712cf9;
+        --bs-btn-hover-color: #ffffff;
+        --bs-btn-hover-bg: #6528e0;
+        --bs-btn-hover-border-color: #6528e0;
+        --bs-btn-focus-shadow-rgb: 112.520718, 44.062154, 249.437846;
+        --bs-btn-active-color: #ffffff;
+        --bs-btn-active-bg: #5a23c8;
+        --bs-btn-active-border-color: #5a23c8;
+      }
+
+      .bd-mode-toggle {
+        z-index: 1500;
+      }
+
+      .bd-mode-toggle .dropdown-menu .active .bi {
+        display: block !important;
+      }
+    </style>
+
+    
+    <script>
+    
+
+
+    (() => {
+      'use strict'
+
+      const getStoredTheme = () => localStorage.getItem('theme')
+      const setStoredTheme = theme => localStorage.setItem('theme', theme)
+
+      const getPreferredTheme = () => {
+        const storedTheme = getStoredTheme()
+        if (storedTheme) {
+          return storedTheme
+        }
+
+        return window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+      }
+
+      const setTheme = theme => {
+        if (theme === 'auto') {
+          document.documentElement.setAttribute('data-bs-theme', (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'))
+        } else {
+          document.documentElement.setAttribute('data-bs-theme', theme)
+        }
+      }
+
+      setTheme(getPreferredTheme())
+
+      const showActiveTheme = (theme, focus = false) => {
+        const themeSwitcher = document.querySelector('#bd-theme')
+
+        if (!themeSwitcher) {
+          return
+        }
+
+        const themeSwitcherText = document.querySelector('#bd-theme-text')
+        const activeThemeIcon = document.querySelector('.theme-icon-active use')
+        const btnToActive = document.querySelector(`[data-bs-theme-value="${theme}"]`)
+        const svgOfActiveBtn = btnToActive.querySelector('svg use').getAttribute('href')
+
+        document.querySelectorAll('[data-bs-theme-value]').forEach(element => {
+          element.classList.remove('active')
+          element.setAttribute('aria-pressed', 'false')
+        })
+
+        btnToActive.classList.add('active')
+        btnToActive.setAttribute('aria-pressed', 'true')
+        activeThemeIcon.setAttribute('href', svgOfActiveBtn)
+        const themeSwitcherLabel = `${themeSwitcherText.textContent} (${btnToActive.dataset.bsThemeValue})`
+        themeSwitcher.setAttribute('aria-label', themeSwitcherLabel)
+
+        if (focus) {
+          themeSwitcher.focus()
+        }
+      }
+
+      window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', () => {
+        const storedTheme = getStoredTheme()
+        if (storedTheme !== 'light' && storedTheme !== 'dark') {
+          setTheme(getPreferredTheme())
+        }
+      })
+
+      window.addEventListener('DOMContentLoaded', () => {
+        showActiveTheme(getPreferredTheme())
+
+        document.querySelectorAll('[data-bs-theme-value]')
+          .forEach(toggle => {
+            toggle.addEventListener('click', () => {
+              const theme = toggle.getAttribute('data-bs-theme-value')
+              setStoredTheme(theme)
+              setTheme(theme)
+              showActiveTheme(theme, true)
+            })
+          })
+      })
+    })()
+
+    </script>
+    
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+  </head>
+  <body>
+    
+    <svg xmlns="http://www.w3.org/2000/svg" class="d-none">
+      <symbol id="check2" viewBox="0 0 16 16">
+        <path d="M13.854 3.646a.5.5 0 0 1 0 .708l-7 7a.5.5 0 0 1-.708 0l-3.5-3.5a.5.5 0 1 1 .708-.708L6.5 10.293l6.646-6.647a.5.5 0 0 1 .708 0z"/>
+      </symbol>
+      <symbol id="circle-half" viewBox="0 0 16 16">
+        <path d="M8 15A7 7 0 1 0 8 1v14zm0 1A8 8 0 1 1 8 0a8 8 0 0 1 0 16z"/>
+      </symbol>
+      <symbol id="moon-stars-fill" viewBox="0 0 16 16">
+        <path d="M6 .278a.768.768 0 0 1 .08.858 7.208 7.208 0 0 0-.878 3.46c0 4.021 3.278 7.277 7.318 7.277.527 0 1.04-.055 1.533-.16a.787.787 0 0 1 .81.316.733.733 0 0 1-.031.893A8.349 8.349 0 0 1 8.344 16C3.734 16 0 12.286 0 7.71 0 4.266 2.114 1.312 5.124.06A.752.752 0 0 1 6 .278z"/>
+        <path d="M10.794 3.148a.217.217 0 0 1 .412 0l.387 1.162c.173.518.579.924 1.097 1.097l1.162.387a.217.217 0 0 1 0 .412l-1.162.387a1.734 1.734 0 0 0-1.097 1.097l-.387 1.162a.217.217 0 0 1-.412 0l-.387-1.162A1.734 1.734 0 0 0 9.31 6.593l-1.162-.387a.217.217 0 0 1 0-.412l1.162-.387a1.734 1.734 0 0 0 1.097-1.097l.387-1.162zM13.863.099a.145.145 0 0 1 .274 0l.258.774c.115.346.386.617.732.732l.774.258a.145.145 0 0 1 0 .274l-.774.258a1.156 1.156 0 0 0-.732.732l-.258.774a.145.145 0 0 1-.274 0l-.258-.774a1.156 1.156 0 0 0-.732-.732l-.774-.258a.145.145 0 0 1 0-.274l.774-.258c.346-.115.617-.386.732-.732L13.863.1z"/>
+      </symbol>
+      <symbol id="sun-fill" viewBox="0 0 16 16">
+        <path d="M8 12a4 4 0 1 0 0-8 4 4 0 0 0 0 8zM8 0a.5.5 0 0 1 .5.5v2a.5.5 0 0 1-1 0v-2A.5.5 0 0 1 8 0zm0 13a.5.5 0 0 1 .5.5v2a.5.5 0 0 1-1 0v-2A.5.5 0 0 1 8 13zm8-5a.5.5 0 0 1-.5.5h-2a.5.5 0 0 1 0-1h2a.5.5 0 0 1 .5.5zM3 8a.5.5 0 0 1-.5.5h-2a.5.5 0 0 1 0-1h2A.5.5 0 0 1 3 8zm10.657-5.657a.5.5 0 0 1 0 .707l-1.414 1.415a.5.5 0 1 1-.707-.708l1.414-1.414a.5.5 0 0 1 .707 0zm-9.193 9.193a.5.5 0 0 1 0 .707L3.05 13.657a.5.5 0 0 1-.707-.707l1.414-1.414a.5.5 0 0 1 .707 0zm9.193 2.121a.5.5 0 0 1-.707 0l-1.414-1.414a.5.5 0 0 1 .707-.707l1.414 1.414a.5.5 0 0 1 0 .707zM4.464 4.465a.5.5 0 0 1-.707 0L2.343 3.05a.5.5 0 1 1 .707-.707l1.414 1.414a.5.5 0 0 1 0 .708z"/>
+      </symbol>
+    </svg>
+
+    <div class="d-grid gap-2 mx-auto d-md-block dropdown position-fixed bottom-0 end-0 mb-3 me-3 bd-mode-toggle opacity-75">
+      <button class="btn bg-primary py-2 mb-3 dropdown-toggle d-flex align-items-center"
+              id="bd-theme"
+              type="button"
+              aria-expanded="false"
+              data-bs-toggle="dropdown"
+              aria-label="Toggle theme (auto)">
+        <svg class="bi my-1 theme-icon-active" width="1em" height="1em"><use href="#circle-half"></use></svg>
+        <span class="visually-hidden" id="bd-theme-text">Toggle theme</span>
+      </button>
+      <ul class="dropdown-menu dropdown-menu-end shadow" aria-labelledby="bd-theme-text">
+        <li>
+          <button type="button" class="dropdown-item d-flex align-items-center" data-bs-theme-value="light" aria-pressed="false">
+            <svg class="bi me-2 opacity-50" width="1em" height="1em"><use href="#sun-fill"></use></svg>
+            Light
+            <svg class="bi ms-auto d-none" width="1em" height="1em"><use href="#check2"></use></svg>
+          </button>
+        </li>
+        <li>
+          <button type="button" class="dropdown-item d-flex align-items-center" data-bs-theme-value="dark" aria-pressed="false">
+            <svg class="bi me-2 opacity-50" width="1em" height="1em"><use href="#moon-stars-fill"></use></svg>
+            Dark
+            <svg class="bi ms-auto d-none" width="1em" height="1em"><use href="#check2"></use></svg>
+          </button>
+        </li>
+        <li>
+          <button type="button" class="dropdown-item d-flex align-items-center active" data-bs-theme-value="auto" aria-pressed="true">
+            <svg class="bi me-2 opacity-50" width="1em" height="1em"><use href="#circle-half"></use></svg>
+            Auto
+            <svg class="bi ms-auto d-none" width="1em" height="1em"><use href="#check2"></use></svg>
+          </button>
+        </li>
+      </ul>   
+      <a class="btn bg-primary py-2 d-flex align-items-center" type="button" aria-label="Move to Top" href="#scrollTop">
+        <i class="bi bi-caret-up-square-fill"></i>
+      </a>
+    </div>
+
+    <header class="bg-body sticky-top justify-content-center border-bottom">
+  <div class="container">
+    <nav class="navbar navbar-expand-md">
+      <div class="container-fluid">
+        
+        <a class="navbar-brand" href="/de/">STEGEMANN</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarCollapse">
+          <ul class="navbar-nav me-auto mb-2 mb-md-0">
+          
+            <li class="nav-item">
+              <a href="/de/elderly_companion_care/" class="nav-link px-2 text-body-secondary">
+                Lebensfreude Begleitdienst
+              </a>
+            </li>
+          
+            <li class="nav-item">
+              <a href="/de/web_development/" class="nav-link px-2 text-body-secondary">
+                Web Entwicklung
+              </a>
+            </li>
+          
+            <li class="nav-item">
+              <a href="/de/android_development/" class="nav-link px-2 text-body-secondary">
+                Android Entwicklung
+              </a>
+            </li>
+          
+        </ul>
+          <ul class="navbar-nav me-2 mb-2 mb-md-0">
+    
+    <li class="nav-item">
+        <a class="nav-link" href="/">EN</a>
+    </li>
+    
+    <li class="nav-item">
+        <a class="nav-link" href="/de/">DE</a>
+    </li>
+    
+</ul>    
+        </div>
+      </div>
+    </nav>
+  </div>
+</header>
+    <main class="pb7" role="main">
+      
+  <style>
+    html {
+    scroll-padding-top: 4rem;
+  }
+  </style>
+  <div class="container px-5 py-4">
+    <h1 id="besuchsdienste--begleitdienste">Besuchsdienste &amp; Begleitdienste</h1>
+<p>Alltagsunterstützungsdienste für Erwachsene und Senioren</p>
+<p>Wir bieten maßgeschneiderte Unterstützung im täglichen Leben, um Ihnen ein selbstbestimmtes und angenehmes Leben in Ihrem eigenen Zuhause zu ermöglichen. Unser liebevolles und kompetentes Team steht Ihnen bei verschiedensten Aufgaben zur Seite, von der Haushaltsführung über Einkäufe bis hin zu Begleitungen und sozialen Aktivitäten. Unsere Dienstleistungen zielen darauf ab, Ihren Alltag zu erleichtern, Ihnen Gesellschaft zu leisten und Ihre Lebensqualität zu verbessern. Ganz gleich, welche Unterstützung Sie benötigen – wir sind für Sie da.</p>
+<h1 id="1-hilfe-zu-hause">1. Hilfe zu Hause</h1>
+<p>Wir verstehen, dass das Zuhause der Ort ist, an dem Sie sich am wohlsten fühlen. Unser Team steht bereit, um Ihnen bei den täglichen Aufgaben zu helfen, sei es beim Putzen, Aufräumen oder bei anderen Haushaltsarbeiten, damit Sie sich rundum wohlfühlen können.</p>
+<p><img alt="Hilfe zu Hause" src="https://www.pexels.com/photo/crop-woman-dusting-lamp-during-housework-4098358/"></p>
+<h1 id="2-kochen">2. Kochen</h1>
+<p>Gemeinsames Kochen kann eine Quelle der Freude und des Genusses sein. Wir unterstützen Sie gerne bei der Zubereitung Ihrer Lieblingsgerichte, egal ob es sich um traditionelle Gerichte handelt oder um neue Rezepte, die Sie ausprobieren möchten.</p>
+<p><img alt="Kochen" src="https://www.pexels.com/photo/calm-senior-woman-and-teenage-girl-in-casual-clothes-looking-at-each-other-and-talking-while-eating-cookies-and-cooking-pastry-in-contemporary-kitchen-at-home-4002425/"></p>
+<h1 id="3-putzen">3. Putzen</h1>
+<p>Ein sauberes Zuhause schafft eine angenehme Umgebung, in der Sie sich entspannen können. Unser Team sorgt dafür, dass Ihr Zuhause sauber und ordentlich ist, damit Sie sich voll und ganz erholen können.</p>
+<p><img alt="Putzen" src="https://www.pexels.com/photo/crop-woman-dusting-lamp-during-housework-4098358/"></p>
+<h1 id="4-gartenarbeit">4. Gartenarbeit</h1>
+<p>Ein gepflegter Garten kann eine Quelle der Freude und Entspannung sein. Wir helfen Ihnen gerne bei der Pflege und Gestaltung Ihres Gartens, damit er zu einem Ort wird, an dem Sie gerne Zeit verbringen.</p>
+<p><img alt="Gartenarbeit" src="https://www.pexels.com/photo/unrecognizable-female-putting-plant-into-glass-vase-5240515/"></p>
+<h1 id="5-einkäufe-erledigen">5. Einkäufe erledigen</h1>
+<p>Einkäufe zu erledigen kann zeitaufwändig und mühsam sein. Wir nehmen Ihnen diese Aufgabe gerne ab und erledigen Ihre Einkäufe, damit Sie alles Nötige bequem zu Hause haben.</p>
+<p><img alt="Einkäufe erledigen" src="https://images.unsplash.com/photo-1628102491629-778571d893a3?q=80&w=1760&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"></p>
+<h1 id="6-post-abholen">6. Post abholen</h1>
+<p>Die Post zu holen kann eine lästige Pflicht sein, besonders wenn Sie nicht mobil sind. Wir holen Ihre Post ab und bringen sie Ihnen sicher nach Hause, damit Sie sich keine Gedanken darüber machen müssen.</p>
+<p><img alt="Post abholen" src="https://www.pexels.com/photo/close-up-photo-of-mail-box-2215161/"></p>
+<h1 id="7-bewegungsübungen">7. Bewegungsübungen</h1>
+<p>Regelmäßige Bewegung ist wichtig für Ihre Gesundheit und Ihr Wohlbefinden. Wir begleiten Sie gerne bei Ihren Bewegungsübungen, sei es beim Spazierengehen, Stretching oder anderen Aktivitäten, um sicherzustellen, dass Sie fit und aktiv bleiben.</p>
+<p><img alt="Bewegungsübungen" src="https://www.pexels.com/photo/senior-man-walking-with-assistance-of-caregiver-3755434/"></p>
+<h1 id="8-haustiere-betreuen">8. Haustiere betreuen</h1>
+<p>Haustiere sind oft mehr als nur Tiere, sie sind ein Teil der Familie. Wir kümmern uns liebevoll um Ihre Haustiere, sei es beim Füttern, Spazierengehen oder einfach nur beim Spielen, damit sie glücklich und gesund bleiben.</p>
+<p><img alt="Haustiere betreuen" src="https://www.pexels.com/photo/tender-woman-hugging-obedient-dog-at-home-4056536/"></p>
+<h1 id="9-gesprächspartner">9. Gesprächspartner</h1>
+<p>Manchmal ist es wichtig, jemanden zum Reden zu haben. Wir sind für Sie da, um zuzuhören, sei es bei alltäglichen Gesprächen oder bei tiefergehenden Themen, um sicherzustellen, dass Sie sich verstanden und unterstützt fühlen.</p>
+<p><img alt="Gesprächspartner" src="https://www.pexels.com/photo/young-woman-sitting-on-sofa-and-talking-to-a-friend-4506038/"></p>
+<h1 id="10-begleitung-zu-arzt--krankenhaus">10. Begleitung zu Arzt &amp; Krankenhaus</h1>
+<p>Arzt- und Krankenhausbesuche können stressig sein, besonders wenn Sie alleine sind. Wir begleiten Sie sicher und zuverlässig zu Ihren Terminen, um sicherzustellen, dass Sie die Unterstützung erhalten, die Sie brauchen.</p>
+<p><img alt="Begleitung zu Arzt &amp; Krankenhaus" src="https://www.pexels.com/photo/woman-sitting-on-wheelchair-while-touching-her-cat-4065168/"></p>
+<h1 id="11-unternehmungen">11. Unternehmungen</h1>
+<p>Gemeinsame Aktivitäten können eine wertvolle Quelle der Freude und des Zusammenseins sein. Wir unternehmen gerne etwas Schönes mit Ihnen, sei es ein Ausflug in die Natur, ein Besuch im Museum, Essen gehen oder einfach nur ein gemütlicher Spaziergang im Park.</p>
+<p><img alt="Unternehmungen" src="https://www.pexels.com/photo/woman-and-woman-holding-hands-while-walking-3403576/"></p>
+<h1 id="12-hauswirtschaft">12. Hauswirtschaft</h1>
+<p>Ein ordentlicher Haushalt schafft eine angenehme Umgebung, in der Sie sich wohl fühlen können. Wir kümmern uns um alle Aspekte der Hauswirtschaft, sei es Putzen, Wäsche waschen oder Bügeln, damit Sie sich entspannen können.</p>
+<p><img alt="Hauswirtschaft" src="https://www.pexels.com/photo/minimalist-composition-of-white-simple-stool-with-clean-fresh-folded-gray-towels-against-beige-wall-in-bathroom-5825811/"></p>
+<h1 id="13-betreuung-bei-einkäufen">13. Betreuung bei Einkäufen</h1>
+<p>Einkaufen kann eine unterhaltsame und soziale Aktivität sein. Wir unterstützen Sie gerne beim Einkaufen, sei es im Supermarkt, auf dem Wochenmarkt oder in kleinen Geschäften, damit Sie die Dinge bekommen, die Sie benötigen, während Sie Zeit mit jemandem verbringen, der Ihnen Gesellschaft leistet.</p>
+<p><img alt="Betreuung bei Einkäufen" src="https://www.pexels.com/photo/high-angle-of-crop-unrecognizable-african-american-woman-holding-hand-of-newborn-baby-baby-sleeping-on-soft-bed-in-daylight-4153140/"></p>
+<h1 id="14-entlastung-für-familien">14. Entlastung für Familien</h1>
+<p>Die Pflege eines geliebten Menschen kann eine große Verantwortung sein. Wir entlasten Ihre Familie, indem wir Ihnen bei der Betreuung und Unterstützung Ihrer Angehörigen helfen, damit Sie mehr Zeit für sich selbst und Ihre Lieben haben.</p>
+<p><img alt="Entlastung für Familien" src="https://www.pexels.com/photo/loving-family-laughing-at-table-having-cozy-meal-3184190/"></p>
+<h1 id="15-spaziergänge-und-ausflüge">15. Spaziergänge und Ausflüge</h1>
+<p>Frische Luft und Bewegung sind wichtig für Ihr körperliches und seelisches Wohlbefinden. Wir begleiten Sie gerne auf Spaziergängen und Ausflügen, damit Sie die Natur genießen und neue Orte entdecken können.</p>
+<p><img alt="Spaziergänge und Ausflüge" src="https://images.unsplash.com/photo-1543333995-a78aea2eee50?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D/"></p>
+<h1 id="16-gesellschaftsspiele">16. Gesellschaftsspiele</h1>
+<p>Gemeinsame Spiele können eine unterhaltsame und soziale Aktivität sein. Wir sorgen für unterhaltsame Stunden, sei es beim Spielen von Brettspielen, Kartenspielen oder anderen Aktivitäten, die Ihnen Spaß machen.</p>
+<p><img alt="Gesellschaftsspiele" src="https://www.pexels.com/photo/close-up-photo-of-a-uno-cards-4009434/"></p>
+<h1 id="17-abrechnung-mit-der-pflegekasse">17. Abrechnung mit der Pflegekasse</h1>
+<p>Die Abrechnung mit der Pflegekasse kann kompliziert sein. Wir unterstützen Sie gerne bei der Abrechnung, um sicherzustellen, dass Sie die finanzielle Unterstützung erhalten, die Ihnen zusteht.</p>
+<p><img alt="Abrechnung mit der Pflegekasse" src="https://www.pexels.com/photo/person-holding-a-stress-ball-3984785/"></p>
+<h1 id="18-haushalt-bei-krankheit">18. Haushalt bei Krankheit</h1>
+<p>Wenn Sie krank sind, ist es wichtig, sich auszuruhen und zu erholen. Wir kümmern uns um Ihren Haushalt, damit Sie sich voll und ganz auf Ihre Genesung konzentrieren können, ohne sich Sorgen machen zu müssen.</p>
+<p><img alt="Haushalt bei Krankheit" src="https://www.pexels.com/photo/peaceful-young-mother-with-baby-embracing-and-sleeping-on-bed-3985308/"></p>
+<h1 id="19-schwangerschaftshilfe">19. Schwangerschaftshilfe</h1>
+<p>Schwangerschaft kann eine aufregende, aber auch herausfordernde Zeit sein. Wir stehen Ihnen zur Seite, um Sie bei Ihren Bedürfnissen während der Schwangerschaft zu unterstützen, sei es bei der Hausarbeit, der Organisation von Terminen oder einfach nur als emotionale Unterstützung.</p>
+<p><img alt="Schwangerschaftshilfe" src="https://www.pexels.com/photo/crop-gentle-african-american-female-with-closed-eyes-and-clean-face-enjoying-cosmetic-procedure-for-smoothing-and-moisturizing-skin-under-eyes-and-removing-dark-circles-3987027/"></p>
+
+  </div>
+
+    </main>
+    <footer class="border-top">
+  
+  
+  <div class="bg-body-tertiary">
+    <div class="container">
+      <div class="d-flex flex-column flex-sm-row justify-content-between py-4">
+        <p>&copy; 2024 Kevin Stegemann, All rights reserved.</p>
+        <ul class="nav col-md-4 justify-content-end">
+          
+            <li class="nav-item">
+              <a href="/de/privacy/" class="nav-link px-2 text-body-secondary">
+                Datenschutzerklärung
+              </a>
+            </li>
+          
+            <li class="nav-item">
+              <a href="/de/legal_notice/" class="nav-link px-2 text-body-secondary">
+                Impressum
+              </a>
+            </li>
+          
+        </ul>
+      </div>
+    </div>
+  </div>
+</footer>
+    
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+  </body>
+</html>

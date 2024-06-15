@@ -1,0 +1,44 @@
+title: STEGEMANN. IT.
+baseURL: https://stegemann.app/
+
+defaultContentLanguage: en
+languages:
+  de:
+    contentDir: content/de
+    disabled: false
+    languageCode: de-DE
+    languageName: DE
+    weight: 2
+  en:
+    contentDir: content/en
+    disabled: false
+    languageCode: en-US
+    languageName: EN
+    weight: 1
+
+menus:
+  header:
+  - identifier: elderly_companion_care
+    name: Elderly Companion Care
+    pageRef: elderly_companion_care
+    url: elderly_companion_care
+    weight: 10
+  - identifier: web_development
+    name: Web Development
+    pageRef: web_development
+    url: web_development
+    weight: 20
+  - identifier: android_development
+    name: Android Development
+    pageRef: android_development
+    url: android_development
+    weight: 30
+  footer:
+  - identifier: privacy
+    name: Privacy Policy
+    pageRef: privacy
+    weight: 10
+  - identifier: legal_notice
+    name: Legal Notice
+    pageRef: legal_notice
+    weight: 20

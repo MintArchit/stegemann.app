@@ -1,0 +1,7 @@
+<ul class="navbar-nav me-2 mb-2 mb-md-0">
+    {{ range $.Site.Home.AllTranslations }}
+    <li class="nav-item">
+        <a class="nav-link" href="{{ .RelPermalink }}">{{ .Language.LanguageName }}</a>
+    </li>
+    {{ end }}
+</ul>    

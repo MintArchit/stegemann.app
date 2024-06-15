@@ -1,25 +1,28 @@
 <!doctype html>
 <html 
   id="scrollTop" 
-  lang="{{ .Language.Lang  }}"
-  dir="{{ .Language.LanguageDirection | default `ltr` }}">
-  <head>
+  lang="en"
+  dir="ltr">
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>{{ block "title" . }}{{ with .Params.Title }}{{ . }} | {{ end }}{{ .Site.Title }}{{ end }}</title>
-    <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}">
+    <title>Android Development | STEGEMANN. IT.</title>
+    <meta name="description" content="Welcome to Stegemann App Gallery Table of Contents Welcome to Stegemann App Gallery Table of Contents About Me Philosophy of App Development Focus on Open Source Privacy and Security Modern UI Design Small Apps for Market Niches Contact About Me As a self-employed Android app developer, I specialize in creating small and useful applications for the market. My passion lies in developing apps that can enhance and simplify daily life.">
     
-    {{ partial "site-style.html" . }}
-    {{ partial "site-scripts.html" . }}
+    
 
-    {{ block "favicon" . }}
-      {{ partialCached "site-favicon.html" . }}
-    {{ end }}
+
+    
+
+    
+      <link rel="shortcut icon" href="https://ik.imagekit.io/0gg1vghhv/favicon.ico?updatedAt=1717973575655" type="image/x-icon" />
+
+    
 
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
 
-    <!-- toggle theme styles -->
+    
     <style>
       .bi {
         vertical-align: -.125em;
@@ -52,13 +55,10 @@
       }
     </style>
 
-    <!-- toggle theme script -->
+    
     <script>
-    /*!
-    * Color mode toggler for Bootstrap's docs (https://getbootstrap.com/)
-    * Copyright 2011-2024 The Bootstrap Authors
-    * Licensed under the Creative Commons Attribution 3.0 Unported License.
-    */
+    
+
 
     (() => {
       'use strict'
@@ -195,11 +195,124 @@
       </a>
     </div>
 
-    {{ block "header" . }}{{ partial "site-header.html" .}}{{ end }}
+    <header class="bg-body sticky-top justify-content-center border-bottom">
+  <div class="container">
+    <nav class="navbar navbar-expand-md">
+      <div class="container-fluid">
+        
+        <a class="navbar-brand" href="/">STEGEMANN</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarCollapse">
+          <ul class="navbar-nav me-auto mb-2 mb-md-0">
+          
+            <li class="nav-item">
+              <a href="/elderly_companion_care/" class="nav-link px-2 text-body-secondary">
+                Elderly Companion Care
+              </a>
+            </li>
+          
+            <li class="nav-item">
+              <a href="/web_development/" class="nav-link px-2 text-body-secondary">
+                Web Development
+              </a>
+            </li>
+          
+            <li class="nav-item">
+              <a href="/android_development/" class="nav-link px-2 text-body-secondary">
+                Android Development
+              </a>
+            </li>
+          
+        </ul>
+          <ul class="navbar-nav me-2 mb-2 mb-md-0">
+    
+    <li class="nav-item">
+        <a class="nav-link" href="/">EN</a>
+    </li>
+    
+    <li class="nav-item">
+        <a class="nav-link" href="/de/">DE</a>
+    </li>
+    
+</ul>    
+        </div>
+      </div>
+    </nav>
+  </div>
+</header>
     <main class="pb7" role="main">
-      {{ block "main" . }}{{ end }}
+      
+  <style>
+    html {
+    scroll-padding-top: 4rem;
+  }
+  </style>
+  <div class="container px-5 py-4">
+    <h1 id="welcome-to-stegemann-app-gallery">Welcome to Stegemann App Gallery</h1>
+<h2 id="table-of-contents">Table of Contents</h2>
+<ul>
+<li><a href="/android_development/#welcome-to-stegemann-app-gallery">Welcome to Stegemann App Gallery</a>
+<ul>
+<li><a href="/android_development/#table-of-contents">Table of Contents</a></li>
+<li><a href="/android_development/#about-me">About Me</a></li>
+<li><a href="/android_development/#philosophy-of-app-development">Philosophy of App Development</a></li>
+<li><a href="/android_development/#focus-on-open-source">Focus on Open Source</a></li>
+<li><a href="/android_development/#privacy-and-security">Privacy and Security</a></li>
+<li><a href="/android_development/#modern-ui-design">Modern UI Design</a></li>
+<li><a href="/android_development/#small-apps-for-market-niches">Small Apps for Market Niches</a></li>
+<li><a href="/android_development/#contact">Contact</a></li>
+</ul>
+</li>
+</ul>
+<h2 id="about-me">About Me</h2>
+<p>As a self-employed Android app developer, I specialize in creating small and useful applications for the market. My passion lies in developing apps that can enhance and simplify daily life.</p>
+<h2 id="philosophy-of-app-development">Philosophy of App Development</h2>
+<p>My approach to app development is characterized by creativity, user-friendliness, and technical excellence. I firmly believe that good software should be freely accessible, which is why I prioritize open-source solutions.</p>
+<h2 id="focus-on-open-source">Focus on Open Source</h2>
+<p>All of my apps are open source, meaning that the source code is accessible and modifiable for everyone. This transparency is aimed at building trust and fostering collaboration within the community.</p>
+<h2 id="privacy-and-security">Privacy and Security</h2>
+<p>Privacy is my top priority. I implement rigorous security standards to protect the personal data of my users. Each app is carefully designed to uphold privacy and securely manage data.</p>
+<h2 id="modern-ui-design">Modern UI Design</h2>
+<p>An appealing and modern UI design is crucial for enhancing user experience. My apps feature clear structure, intuitive navigation, and aesthetic design to leverage the best of the Android platform.</p>
+<h2 id="small-apps-for-market-niches">Small Apps for Market Niches</h2>
+<p>Rather than developing large, comprehensive applications, I focus on small tools and simple games. These target specific market segments, offering direct and practical solutions.</p>
+<p><img alt="Example Image of an App" src="link-to-image.jpg"></p>
+<h2 id="contact">Contact</h2>
+<p>Would you like to learn more about my apps or discuss a collaboration idea? I look forward to hearing from you! Feel free to contact me via email at <a href="mailto:app.development@stegemann.app">app.development@stegemann.app</a>.</p>
+<hr>
+<p>Visit my gallery and explore the world of my Android apps!</p>
+
+  </div>
+
     </main>
-    {{ block "footer" . }}{{ partial "site-footer.html" . }}{{ end }}
+    <footer class="border-top">
+  
+  
+  <div class="bg-body-tertiary">
+    <div class="container">
+      <div class="d-flex flex-column flex-sm-row justify-content-between py-4">
+        <p>&copy; 2024 Kevin Stegemann, All rights reserved.</p>
+        <ul class="nav col-md-4 justify-content-end">
+          
+            <li class="nav-item">
+              <a href="/privacy/" class="nav-link px-2 text-body-secondary">
+                Privacy Policy
+              </a>
+            </li>
+          
+            <li class="nav-item">
+              <a href="/legal_notice/" class="nav-link px-2 text-body-secondary">
+                Legal Notice
+              </a>
+            </li>
+          
+        </ul>
+      </div>
+    </div>
+  </div>
+</footer>
     
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
   </body>

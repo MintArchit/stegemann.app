@@ -1,25 +1,34 @@
 <!doctype html>
 <html 
   id="scrollTop" 
-  lang="{{ .Language.Lang  }}"
-  dir="{{ .Language.LanguageDirection | default `ltr` }}">
-  <head>
+  lang="de"
+  dir="ltr">
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>{{ block "title" . }}{{ with .Params.Title }}{{ . }} | {{ end }}{{ .Site.Title }}{{ end }}</title>
-    <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}">
+    <title>Impressum | STEGEMANN. IT.</title>
+    <meta name="description" content="Impressum Kevin Stegemann
+Hohegrabenweg 62 40667 Meerbusch Deutschland
+Telefon: &#43;49 5341 / 21-01
+Internet: www.stegemann.app impressum@stegemann.app
+Ust.-ID: Noch nicht vergeben
+Rechtliche Hinweise Kennzeichen-, Urheber- und sonstige Schutzrechte
+Alle Rechte, insbesondere Kennzeichen-, Urheber- und sonstige Schutzrechte bleiben vorbehalten. Alle Texte, Bilder, Animations- und Videodateien und sonstige Inhalte meiner Internetseiten unterliegen dem Urheberrecht, dem Kennzeichenrecht (insbesondere Markenrecht) und anderen Gesetzen zum Schutze geistigen Eigentums und des allgemeinen Persönlichkeitsrechts. Insbesondere eine Vervielfältigung oder Verwendung der vorgenannten Inhalte meiner Website in anderen elektronischen, gedruckten oder sonstigen Medien ist ohne meine ausdrückliche schriftliche Zustimmung nicht erlaubt.">
     
-    {{ partial "site-style.html" . }}
-    {{ partial "site-scripts.html" . }}
+    
 
-    {{ block "favicon" . }}
-      {{ partialCached "site-favicon.html" . }}
-    {{ end }}
+
+    
+
+    
+      <link rel="shortcut icon" href="https://ik.imagekit.io/0gg1vghhv/favicon.ico?updatedAt=1717973575655" type="image/x-icon" />
+
+    
 
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
 
-    <!-- toggle theme styles -->
+    
     <style>
       .bi {
         vertical-align: -.125em;
@@ -52,13 +61,10 @@
       }
     </style>
 
-    <!-- toggle theme script -->
+    
     <script>
-    /*!
-    * Color mode toggler for Bootstrap's docs (https://getbootstrap.com/)
-    * Copyright 2011-2024 The Bootstrap Authors
-    * Licensed under the Creative Commons Attribution 3.0 Unported License.
-    */
+    
+
 
     (() => {
       'use strict'
@@ -195,11 +201,122 @@
       </a>
     </div>
 
-    {{ block "header" . }}{{ partial "site-header.html" .}}{{ end }}
+    <header class="bg-body sticky-top justify-content-center border-bottom">
+  <div class="container">
+    <nav class="navbar navbar-expand-md">
+      <div class="container-fluid">
+        
+        <a class="navbar-brand" href="/de/">STEGEMANN</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarCollapse">
+          <ul class="navbar-nav me-auto mb-2 mb-md-0">
+          
+            <li class="nav-item">
+              <a href="/de/elderly_companion_care/" class="nav-link px-2 text-body-secondary">
+                Lebensfreude Begleitdienst
+              </a>
+            </li>
+          
+            <li class="nav-item">
+              <a href="/de/web_development/" class="nav-link px-2 text-body-secondary">
+                Web Entwicklung
+              </a>
+            </li>
+          
+            <li class="nav-item">
+              <a href="/de/android_development/" class="nav-link px-2 text-body-secondary">
+                Android Entwicklung
+              </a>
+            </li>
+          
+        </ul>
+          <ul class="navbar-nav me-2 mb-2 mb-md-0">
+    
+    <li class="nav-item">
+        <a class="nav-link" href="/">EN</a>
+    </li>
+    
+    <li class="nav-item">
+        <a class="nav-link" href="/de/">DE</a>
+    </li>
+    
+</ul>    
+        </div>
+      </div>
+    </nav>
+  </div>
+</header>
     <main class="pb7" role="main">
-      {{ block "main" . }}{{ end }}
+      
+  <style>
+    html {
+    scroll-padding-top: 4rem;
+  }
+  </style>
+  <div class="container px-5 py-4">
+    <h1 id="impressum">Impressum</h1>
+<p><strong>Kevin Stegemann</strong><br>
+Hohegrabenweg 62 <br>
+40667 Meerbusch
+Deutschland</p>
+<p>Telefon: +49 5341 / 21-01<br>
+Internet: <a href="/de/">www.stegemann.app</a> <br>
+<a href="mailto:impressum@stegemann.app" title="Öffnet ein Fenster zum Versenden der E-Mail">impressum@stegemann.app</a></p>
+<p>Ust.-ID: Noch nicht vergeben</p>
+<hr>
+<h4 id="rechtliche-hinweise">Rechtliche Hinweise</h4>
+<p><strong>Kennzeichen-, Urheber- und sonstige Schutzrechte</strong><br>
+Alle Rechte, insbesondere Kennzeichen-, Urheber- und sonstige Schutzrechte bleiben vorbehalten. Alle Texte, Bilder, Animations- und Videodateien und sonstige Inhalte meiner Internetseiten unterliegen dem Urheberrecht, dem Kennzeichenrecht (insbesondere Markenrecht) und anderen Gesetzen zum Schutze geistigen Eigentums und des allgemeinen Persönlichkeitsrechts. Insbesondere eine Vervielfältigung oder Verwendung der vorgenannten Inhalte meiner Website in anderen elektronischen, gedruckten oder sonstigen Medien ist ohne meine ausdrückliche schriftliche Zustimmung nicht erlaubt. Davon ausgenommen sind die für die Weiterverbreitung ausdrücklich angebotenen Text- und Bildmaterialien.</p>
+<p><strong>Inhalt – Gewährleistung</strong><br>
+Meine Website wurde mit der größtmöglichen Sorgfalt erstellt. Auch wenn ich davon ausgehe, dass die von mir gegebenen Informationen zutreffend sind, können sie u. U. doch Fehler oder Ungenauigkeiten enthalten. Ich stelle die Informationen daher ohne jegliche Zusicherung oder Gewährleistung zur Verfügung. Insbesondere übernehme ich keine Gewähr für die Vollständigkeit, Korrektheit, Qualität oder Aktualität der zur Verfügung gestellten Informationen. Ich behalte mir ausdrücklich das Recht vor, jederzeit ohne vorherige Ankündigung den Inhalt meiner Website zeitlich befristet oder dauerhaft vom Netz zu nehmen, ihn ganz oder teilweise zu erweitern, zu löschen oder sonst wie zu verändern.</p>
+<p><strong>Links</strong>
+Außerdem weise ich darauf hin, dass ich andere Websites, die einen Link zu meiner Website besitzen, nicht überwache und für deren Inhalt nicht verantwortlich bin. Soweit von meiner Website ein Link auf die Website eines Dritten verweist, erkläre ich ausdrücklich, dass nach meinem besten Wissen dort keine illegalen Inhalte vorhanden sind, dass ich aber die zukünftige Gestaltung solcher Websites nicht beeinflussen kann. Ich mache mir solche Inhalte ausdrücklich nicht zu eigen. Für Schäden, die aufgrund von falschen oder illegalen Inhalten auf Drittseiten entstehen, haftet allein der Betreiber solcher Internetseiten.</p>
+<hr>
+<p><strong>Verantwortlich für den Inhalt der Website</strong><br>
+Kevin Stegemann</p>
+<p><strong>Gestaltung und Umsetzung der Internetpräsenz</strong><br>
+Kevin Stegemann
+<a href="/web-development">www.stegemann.app/web-development</a></p>
+<hr>
+<h4 id="bildnachweis">Bildnachweis</h4>
+<p>Unsplash</p>
+<ul>
+<li><a href="/de/">Stegemann Hero Carousel</a> / Automotive</li>
+<li><a href="/de/">Stegemann Hero Carousel</a> / City</li>
+<li><a href="/de/">Error 404 Page</a> / 404</li>
+</ul>
+
+  </div>
+
     </main>
-    {{ block "footer" . }}{{ partial "site-footer.html" . }}{{ end }}
+    <footer class="border-top">
+  
+  
+  <div class="bg-body-tertiary">
+    <div class="container">
+      <div class="d-flex flex-column flex-sm-row justify-content-between py-4">
+        <p>&copy; 2024 Kevin Stegemann, All rights reserved.</p>
+        <ul class="nav col-md-4 justify-content-end">
+          
+            <li class="nav-item">
+              <a href="/de/privacy/" class="nav-link px-2 text-body-secondary">
+                Datenschutzerklärung
+              </a>
+            </li>
+          
+            <li class="nav-item">
+              <a href="/de/legal_notice/" class="nav-link px-2 text-body-secondary">
+                Impressum
+              </a>
+            </li>
+          
+        </ul>
+      </div>
+    </div>
+  </div>
+</footer>
     
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
   </body>

@@ -1,23 +1,23 @@
-<header class="bg-white sticky-top justify-content-center border-bottom" data-bs-theme="">
+<header class="bg-body sticky-top justify-content-center border-bottom">
   <div class="container">
     <nav class="navbar navbar-expand-md">
       <div class="container-fluid">
-        <a class="navbar-brand" href="#">{{ .Title | default .Site.Title }}</a>
+        <!-- <a class="navbar-brand" href="/">{{ .Title | default .Page.Title }}</a> -->
+        <a class="navbar-brand" href="{{relLangURL "" }}">STEGEMANN</a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarCollapse">
           <ul class="navbar-nav me-auto mb-2 mb-md-0">
+          {{ range .Site.Menus.header }}
             <li class="nav-item">
-              <a class="nav-link active" aria-current="page" href="#">Home</a>
+              <a href="{{ relLangURL .URL | safeHTML }}" class="nav-link px-2 text-body-secondary">
+                {{ or (T .Identifier) .Name | safeHTML }}
+              </a>
             </li>
-          </ul>
-          <form class="d-flex" role="search">
-            <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
-            <button class="btn btn-outline-success" type="submit">
-              <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="mx-3" role="img" viewBox="0 0 24 24"><title>Search</title><circle cx="10.5" cy="10.5" r="7.5"/><path d="M21 21l-5.2-5.2"/></svg>
-            </button>
-          </form>
+          {{ end }}
+        </ul>
+          {{ partial "allLanguages.html" . }}
         </div>
       </div>
     </nav>

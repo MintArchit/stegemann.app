@@ -1,25 +1,28 @@
 <!doctype html>
 <html 
   id="scrollTop" 
-  lang="{{ .Language.Lang  }}"
-  dir="{{ .Language.LanguageDirection | default `ltr` }}">
-  <head>
+  lang="de"
+  dir="ltr">
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>{{ block "title" . }}{{ with .Params.Title }}{{ . }} | {{ end }}{{ .Site.Title }}{{ end }}</title>
-    <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}">
+    <title>STEGEMANN. IT.</title>
+    <meta name="description" content="">
     
-    {{ partial "site-style.html" . }}
-    {{ partial "site-scripts.html" . }}
+    
 
-    {{ block "favicon" . }}
-      {{ partialCached "site-favicon.html" . }}
-    {{ end }}
+
+    
+
+    
+      <link rel="shortcut icon" href="https://ik.imagekit.io/0gg1vghhv/favicon.ico?updatedAt=1717973575655" type="image/x-icon" />
+
+    
 
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
 
-    <!-- toggle theme styles -->
+    
     <style>
       .bi {
         vertical-align: -.125em;
@@ -52,13 +55,10 @@
       }
     </style>
 
-    <!-- toggle theme script -->
+    
     <script>
-    /*!
-    * Color mode toggler for Bootstrap's docs (https://getbootstrap.com/)
-    * Copyright 2011-2024 The Bootstrap Authors
-    * Licensed under the Creative Commons Attribution 3.0 Unported License.
-    */
+    
+
 
     (() => {
       'use strict'
@@ -195,11 +195,99 @@
       </a>
     </div>
 
-    {{ block "header" . }}{{ partial "site-header.html" .}}{{ end }}
+    <header class="bg-body sticky-top justify-content-center border-bottom">
+  <div class="container">
+    <nav class="navbar navbar-expand-md">
+      <div class="container-fluid">
+        
+        <a class="navbar-brand" href="/de/">STEGEMANN</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarCollapse">
+          <ul class="navbar-nav me-auto mb-2 mb-md-0">
+          
+            <li class="nav-item">
+              <a href="/de/elderly_companion_care/" class="nav-link px-2 text-body-secondary">
+                Lebensfreude Begleitdienst
+              </a>
+            </li>
+          
+            <li class="nav-item">
+              <a href="/de/web_development/" class="nav-link px-2 text-body-secondary">
+                Web Entwicklung
+              </a>
+            </li>
+          
+            <li class="nav-item">
+              <a href="/de/android_development/" class="nav-link px-2 text-body-secondary">
+                Android Entwicklung
+              </a>
+            </li>
+          
+        </ul>
+          <ul class="navbar-nav me-2 mb-2 mb-md-0">
+    
+    <li class="nav-item">
+        <a class="nav-link" href="/">EN</a>
+    </li>
+    
+    <li class="nav-item">
+        <a class="nav-link" href="/de/">DE</a>
+    </li>
+    
+</ul>    
+        </div>
+      </div>
+    </nav>
+  </div>
+</header>
     <main class="pb7" role="main">
-      {{ block "main" . }}{{ end }}
+      
+  <div class="container">
+    <div class="px-4 pt-5 my-5 text-center">
+      <h1 class="display-4 fw-bold text-body-emphasis"> 404 Page not found</h1>
+      <div class="col-lg-6 mx-auto">
+        <p class="lead mb-4">This is not the page you were looking for.</p>
+        <div class="d-grid gap-2 d-sm-flex justify-content-sm-center mb-5">
+          <a type="button" class="btn btn-primary btn-lg px-4 me-sm-3" href="/de/">Zurück zur Homepage</a>
+        </div>
+      </div>
+      <div class="overflow-hidden">
+        <div class="container px-5">
+          <img src="https://images.unsplash.com/photo-1578328819058-b69f3a3b0f6b?q=80&w=1674&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="img-fluid border rounded-3 shadow-lg mb-4" alt="Example image" width="700" height="500" loading="lazy">
+        </div>
+      </div>
+    </div>
+  </div>
+
     </main>
-    {{ block "footer" . }}{{ partial "site-footer.html" . }}{{ end }}
+    <footer class="border-top">
+  
+  
+  <div class="bg-body-tertiary">
+    <div class="container">
+      <div class="d-flex flex-column flex-sm-row justify-content-between py-4">
+        <p>&copy; 2024 Kevin Stegemann, All rights reserved.</p>
+        <ul class="nav col-md-4 justify-content-end">
+          
+            <li class="nav-item">
+              <a href="/de/privacy/" class="nav-link px-2 text-body-secondary">
+                Datenschutzerklärung
+              </a>
+            </li>
+          
+            <li class="nav-item">
+              <a href="/de/legal_notice/" class="nav-link px-2 text-body-secondary">
+                Impressum
+              </a>
+            </li>
+          
+        </ul>
+      </div>
+    </div>
+  </div>
+</footer>
     
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
   </body>
