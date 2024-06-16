@@ -1,6 +1,8 @@
 <div class="px-4 pt-4 pb-4 mb-4">
     <div class="rounded" style="position: relative; overflow: hidden;">
-        <img src="{{ if .Get "src" }}{{ .Get "src" }}{{ else }}https://images.unsplash.com/photo-1550684848-86a5d8727436?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D{{ end }}" class="img-fluid ratio ratio-16x9 object-fit-cover" style="max-height: 500px; filter: blur(10px); -webkit-filter: blur(10px);"/>    
-        <img src="{{ if .Get "src" }}{{ .Get "src" }}{{ else }}https://images.unsplash.com/photo-1550684848-86a5d8727436?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D{{ end }}" class="img-fluid mx-auto d-block ratio ratio-16x9 object-fit-contain" style="max-height: 500px; position: absolute; bottom: 0;"/>
+        <img src="{{ if .Get "src" }}{{ .Get "src" }}{{ else }}https://images.unsplash.com/photo-1550684848-86a5d8727436?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D{{ end }}" class="img-fluid ratio ratio-16x9 object-fit-cover" style="max-height: 500px; filter: blur(10px); -webkit-filter: blur(10px);" 
+        loading="lazy"/>    
+        <img src="{{ if .Get "src" }}{{ .Get "src" }}{{ else }}https://images.unsplash.com/photo-1550684848-86a5d8727436?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D{{ end }}" class="img-fluid mx-auto d-block ratio ratio-16x9 object-fit-contain" style="max-height: 500px; position: absolute; bottom: 0;" 
+        loading="lazy"/>
     </div>
 </div>
