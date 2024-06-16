@@ -5,16 +5,7 @@ draft = false
 +++
 # Welcome to Stegemann App Gallery
 
-## Table of Contents
-- [Welcome to Stegemann App Gallery](#welcome-to-stegemann-app-gallery)
-  - [Table of Contents](#table-of-contents)
-  - [About Me](#about-me)
-  - [Philosophy of App Development](#philosophy-of-app-development)
-  - [Focus on Open Source](#focus-on-open-source)
-  - [Privacy and Security](#privacy-and-security)
-  - [Modern UI Design](#modern-ui-design)
-  - [Small Apps for Market Niches](#small-apps-for-market-niches)
-  - [Contact](#contact)
+{{< toc >}}
 
 ## About Me
 

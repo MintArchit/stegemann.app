@@ -8,19 +8,7 @@ draft = false
 
 ![Web Development](https://example.com/webentwicklung.jpg)
 
-## Table of Contents
-
-- [Web Development - Your Partner for Custom Web Solutions](#web-development---your-partner-for-custom-web-solutions)
-  - [Table of Contents](#table-of-contents)
-  - [About Me](#about-me)
-  - [Services](#services)
-    - [Domain Rental](#domain-rental)
-    - [Web Server Setup](#web-server-setup)
-    - [Mail and Calendar Systems](#mail-and-calendar-systems)
-    - [Custom Frontend Development](#custom-frontend-development)
-  - [Benefits for Small and Medium-Sized Enterprises](#benefits-for-small-and-medium-sized-enterprises)
-  - [Multilingualism and Internationalization](#multilingualism-and-internationalization)
-  - [Contact](#contact)
+{{< toc >}}
 
 ## About Me
 

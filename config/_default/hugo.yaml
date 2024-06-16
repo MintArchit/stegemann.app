@@ -1,6 +1,33 @@
 title: STEGEMANN. IT.
 baseURL: https://stegemann.app/
 
+markup:
+  tableOfContents:
+    endLevel: 5
+    ordered: false
+    startLevel: 2
+
+privacy:
+  disqus:
+    disable: true
+  googleAnalytics:
+    disable: true
+    respectDoNotTrack: true
+  instagram:
+    disable: true
+    simple: false
+  twitter:
+    disable: true
+    enableDNT: false
+    simple: false
+  vimeo:
+    disable: true
+    enableDNT: false
+    simple: false
+  youtube:
+    disable: false
+    privacyEnhanced: true
+
 defaultContentLanguage: en
 languages:
   de:

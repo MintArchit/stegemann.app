@@ -8,19 +8,7 @@ draft = false
 
 ![Webentwicklung](https://example.com/webentwicklung.jpg)
 
-## Inhaltsverzeichnis
-
-- [Webentwicklung - Ihr Partner für maßgeschneiderte Weblösungen](#webentwicklung---ihr-partner-für-maßgeschneiderte-weblösungen)
-  - [Inhaltsverzeichnis](#inhaltsverzeichnis)
-  - [Über mich](#über-mich)
-  - [Dienstleistungen](#dienstleistungen)
-    - [Domainvermietung](#domainvermietung)
-    - [Webserver-Einrichtung](#webserver-einrichtung)
-    - [Mail- und Kalendersysteme](#mail--und-kalendersysteme)
-    - [Individuelle Frontend-Entwicklung](#individuelle-frontend-entwicklung)
-  - [Vorteile für kleine und mittelständische Unternehmen](#vorteile-für-kleine-und-mittelständische-unternehmen)
-  - [Mehrsprachigkeit und Internationalisierung](#mehrsprachigkeit-und-internationalisierung)
-  - [Kontakt](#kontakt)
+{{< toc >}}
 
 ## Über mich
 
@@ -30,25 +18,25 @@ Ich bin ein selbständiger Webentwickler mit einem Fokus auf maßgeschneiderte W
 
 ### Domainvermietung
 
-![Domainvermietung](https://example.com/domainvermietung.jpg)
+{{< img src="" >}}
 
 Ich biete die Vermietung von Domains an, um Ihnen den Einstieg in die Online-Welt zu erleichtern. Sie können von meiner Erfahrung profitieren und sich darauf verlassen, dass Ihre Domain sicher und zuverlässig verwaltet wird.
 
 ### Webserver-Einrichtung
 
-![Webserver](https://example.com/webserver.jpg)
+{{< img src="" >}}
 
 Die Einrichtung und Verwaltung von Webservern gehört zu meinen Kernkompetenzen. Ich sorge dafür, dass Ihre Webseite stets verfügbar ist und eine optimale Performance bietet.
 
 ### Mail- und Kalendersysteme
 
-![Mail- und Kalendersysteme](https://example.com/mailkalender.jpg)
+{{< img src="" >}}
 
 Ich richte für Sie professionelle Mail- und Kalendersysteme ein, die auf Ihre Bedürfnisse abgestimmt sind. Dies umfasst die sichere Verwaltung Ihrer E-Mails und die Integration von Kalenderfunktionen zur besseren Organisation.
 
 ### Individuelle Frontend-Entwicklung
 
-![Frontend-Entwicklung](https://example.com/frontend.jpg)
+{{< img src="" >}}
 
 Die Entwicklung maßgeschneiderter, mehrsprachiger Frontends für repräsentative Webseiten ist meine Spezialität. Jedes Projekt wird individuell gestaltet, um Ihre Marke optimal zu präsentieren und Ihre Zielgruppe anzusprechen.
 
@@ -64,7 +52,7 @@ Ich entwickle Webseiten, die mehrsprachig und international ausgerichtet sind. D
 
 ## Kontakt
 
-![Kontakt](https://example.com/kontakt.jpg)
+{{< img src="" >}}
 
 Sie haben Interesse an meinen Dienstleistungen oder Fragen zu meinem Angebot? Zögern Sie nicht, mich zu kontaktieren:
 

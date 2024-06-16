@@ -9,7 +9,7 @@ Privacy Policy
 
 I am pleased about your interest in my company and your visit to my website. The protection of your personal data is an important concern for me. Therefore, I would like to inform you about the processing of personal data in the context of using my website and clarify the rights you are entitled to.
 
-#### Controller, Data Protection Officer
+## Controller, Data Protection Officer
 The responsible entity according to Art. 4 Para. 7 of the EU General Data Protection Regulation (GDPR) is
 
 Kevin Stegemann     
@@ -19,7 +19,9 @@ Telefon: +49 5341 21-01
 
 You can reach me as the Data Protection Officer via my postal address with the addition "Data Protection Officer" or at: [datenschutz@stegemann.app](mailto:datenschutz@stegemann.app)
 
-### Hosting
+{{< toc >}}
+
+## Hosting
 My hosting provider collects the following data in so-called log files, which your browser transmits:
 
 IP address, the address of the previously visited website (referrer request header), date and time of the request, time zone difference to Greenwich Mean Time, content of the request, HTTP status code, amount of data transferred, website from which the request originates, and information about the browser and operating system.
@@ -47,10 +49,10 @@ The processing of the data specified in this section is neither legally nor cont
 
 GitHub has implemented compliance measures for international data transfers. These apply to all worldwide activities in which GitHub processes personal data of individuals in the EU. These measures are based on the EU Standard Contractual Clauses (SCCs). Further information can be found at: [GitHub Data Protection Addendum](https://docs.github.com/en/free-pro-team@latest/github/site-policy/github-data-protection-addendum#attachment-1--the-standard-contractual-clauses-processors).
 
-### Contact Forms
+## Contact Forms
 Contact data is only collected from you if you use the contact form to send me a message or inquiry, if you submit an order to me using the online order form on my website, if you recommend a job online, or if you send me an online application. Your information is collected only to the necessary extent and solely for the purpose of fulfilling the stated purpose. For more information on online applications, please see [here](https://www.stegemann.app/de/kontakt/datenschutz/information-zum-datenschutz-fuer-bewerber.html).
 
-### YouTube
+## YouTube
 
 I have embedded YouTube videos on my website, which are stored on www.youtube.com and playable directly from my website.
 
@@ -58,17 +60,17 @@ These are all embedded in "enhanced privacy mode," meaning no data about you as 
 
 YouTube is operated by YouTube LLC with headquarters at 901 Cherry Avenue, San Bruno, CA 94066, USA. YouTube is represented by Google Inc. with headquarters at 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA. For more information on how YouTube (Google) handles user data, please see [http://www.google.com/intl/en/policies/privacy/](http://www.google.com/intl/en/policies/privacy/).
 
-### Links
+## Links
 
 My website contains links to other websites in some cases. I have checked these links with reasonable care. I am not responsible for the content and data protection on the websites linked by me.
 
-### SSL Encryption
+## SSL Encryption
 
 For security reasons and to protect the transmission of confidential content that you send to me, this site uses SSL encryption. You can recognize an encrypted connection by the fact that the address line of the browser changes from "http://" to "https://" and by the lock symbol in your browser line.
 
 When SSL encryption is activated, the data you transmit to me cannot be read by third parties.
 
-### Further Information according to GDPR
+## Further Information according to GDPR
 
 **Deletion and retention periods of data**
 
@@ -76,7 +78,7 @@ If I have stored personal data from you, I process it only for the period necess
 
 If the storage purpose ceases to apply or if a statutory storage period expires, the personal data will be routinely blocked or deleted in accordance with legal regulations.
 
-### Categories of Recipients
+## Categories of Recipients
 
 If you have provided me with personal data, it will generally not be disclosed to third parties. Disclosure will only occur
 
@@ -84,17 +86,17 @@ If you have provided me with personal data, it will generally not be disclosed t
 *   within the scope of consent given by you;
 *   to IT service providers, e.g., for the administration and hosting of my website.
 
-### Transfer to Third Countries
+## Transfer to Third Countries
 
 Data transfer to countries outside the EU or EEA (so-called third countries) only takes place if specified in this privacy policy, necessary for the execution of orders, legally required, or if you have given consent.
 
-### Rights of Data Subjects
+## Rights of Data Subjects
 
 Every data subject has the right to information under Art. 15 GDPR. If I process personal data from you, you have the right to rectification under Art. 16 GDPR, the right to erasure under Art. 17 GDPR, the right to restriction of processing under Art. 18 GDPR, the right to object under Art. 21 GDPR, and the right to data portability under Art. 20 GDPR. The restrictions under §§ 34 and 35 BDSG apply to the right of access and the right to erasure. In addition, there is a right to lodge a complaint with the competent data protection supervisory authority (Art. 77 GDPR in conjunction with § 19 BDSG).
 
 If you have given consent to the processing of data, you can revoke it at any time in the same way you granted it. The revocation can be made informally, e.g., by email to {dp_email} or by a message to the contact details provided above. Revoking consent does not affect the lawfulness of processing based on consent before its withdrawal.
 
-#### Right to Object to Processing
+### Right to Object to Processing
 
 Under Art. 21 para. 1 GDPR, you have the right to object at any time to the processing of your personal data based on Art. 6 para. 1 lit. f) GDPR (processing for the purposes of legitimate interests).
 
@@ -107,7 +109,7 @@ If the objection is also or solely directed against processing for direct market
 
 The objection can be made informally, e.g., by email to [datenschutz@stegemann.app](mailto:datenschutz@stegemann.app) or by a message to the contact details provided above.
 
-### Legal Basis for Processing
+## Legal Basis for Processing
 
 The processing of personal data in connection with the use of contact forms is based on Art. 6 para. 1 lit. b) GDPR, provided that the purpose of contacting is to fulfill a contract or to take pre-contractual measures.
 
@@ -119,25 +121,25 @@ Furthermore, processing operations may be based on Art. 6 para. 1 lit. f) GDPR, 
 
 I use server log files, cookies, web fonts, embedded YouTube videos, and web analytics tools so that you can fully utilize all functions of my website and for the purpose of adapting and optimizing my website to your needs. When you contact us via our contact form and functions in my career blog, I use your data for the purpose of interacting with you and corporate communication.
 
-### Obligation to Provide Personal Data
+## Obligation to Provide Personal Data
 
 There is generally no obligation to provide personal data when visiting my website. Different regulations may apply due to contractual agreements. If the aforementioned personal data is not provided, it may not be possible to achieve the individual purposes described.
 
-### No Automated Decision Making
+## No Automated Decision Making
 
 I do not use fully automated decision-making processes according to Art. 22 GDPR.
 
-### Changes to the Privacy Policy
+## Changes to the Privacy Policy
 
 Due to the continuous development of the Internet, adjustments to the privacy policy are necessary at intervals. Regularly accessing the privacy policy gives you the opportunity to stay informed about changes.
 
-### Supplement to the Privacy Policy
+## Supplement to the Privacy Policy
 
 Below you will find additional data protection information in accordance with the EU General Data Protection Regulation for business partners. The information is available to you [here](https://www.stegemann.app/de/kontakt/datenschutz/datenschutzhinweise-fuer-geschaeftspartner-bzw-deren-ansprechpartner) available.
 
-### Data Protection Information for my Social Media Channels
+## Data Protection Information for my Social Media Channels
 
-#### Data Processing by Social Networks
+### Data Processing by Social Networks
 
 I - Kevin Stegemann - maintain publicly accessible profiles on social networks. Below, I have listed the social networks I use.
 

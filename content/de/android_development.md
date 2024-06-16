@@ -6,16 +6,7 @@ draft = false
 
 # Willkommen in Stegemann App Galerie
 
-## Inhaltsverzeichnis
-- [Willkommen in Stegemann App Galerie](#willkommen-in-stegemann-app-galerie)
-  - [Inhaltsverzeichnis](#inhaltsverzeichnis)
-  - [Über mich](#über-mich)
-  - [Philosophie der App-Entwicklung](#philosophie-der-app-entwicklung)
-  - [Fokus auf Open Source](#fokus-auf-open-source)
-  - [Datenschutz und Sicherheit](#datenschutz-und-sicherheit)
-  - [Modernes UI-Design](#modernes-ui-design)
-  - [Kleine Apps für spezielle Märkte](#kleine-apps-für-spezielle-märkte)
-  - [Kontakt](#kontakt)
+{{< toc >}}
 
 ## Über mich
 
