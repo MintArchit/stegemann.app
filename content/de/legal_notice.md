@@ -12,7 +12,7 @@ Hohegrabenweg 62 
 40667 Meerbusch
 Deutschland
 
-Telefon: +49 5341 / 21-01   
+Telefon: +49 151 1606 4346   
 Internet: [www.stegemann.app](/)    
 [impressum@stegemann.app](mailto:impressum@stegemann.app "Öffnet ein Fenster zum Versenden der E-Mail")  
 

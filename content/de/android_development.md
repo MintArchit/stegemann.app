@@ -32,7 +32,7 @@ Ein ansprechendes und modernes UI-Design ist essentiell für die Benutzererfahru
 
 Statt große, allumfassende Anwendungen zu entwickeln, konzentriere ich mich auf kleine Tools und einfache Spiele. Diese zielen auf spezielle Marktsegmente ab, wo sie eine direkte und praktische Lösung bieten.
 
-![Beispielbild einer App](link-zum-bild.jpg)
+{{< img src="" >}}
 
 ## Kontakt
 

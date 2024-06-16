@@ -16,7 +16,7 @@ Verantwortlich gem. Art. 4 Abs. 7 EU-Datenschutz-Grundverordnung (DSGVO) ist
 Kevin Stegemann     
 Hohegrabenweg 62    
 40667 Meerbusch, Germany   
-Telefon: +49 5341 21-01
+Telefon: +49 151 1606 4346
 
 Als Datenschutzbeauftragten erreichen Sie mich über meine Postadresse mit dem Zusatz „Datenschutzbeauftragte“ oder unter: [datenschutz@stegemann.app](mailto:datenschutz@stegemann.app)
 

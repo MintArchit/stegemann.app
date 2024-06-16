@@ -15,7 +15,7 @@ The responsible entity according to Art. 4 Para. 7 of the EU General Data Protec
 Kevin Stegemann     
 Hohegrabenweg 62    
 40667 Meerbusch, Germany   
-Telefon: +49 5341 21-01
+Telefon: +49 +49 151 1606 4346
 
 You can reach me as the Data Protection Officer via my postal address with the addition "Data Protection Officer" or at: [datenschutz@stegemann.app](mailto:datenschutz@stegemann.app)
 

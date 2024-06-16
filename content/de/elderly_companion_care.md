@@ -17,13 +17,13 @@ Wir bieten maßgeschneiderte Unterstützung im täglichen Leben, um Ihnen ein se
 
 Wir verstehen, dass das Zuhause der Ort ist, an dem Sie sich am wohlsten fühlen. Unser Team steht bereit, um Ihnen bei den täglichen Aufgaben zu helfen, sei es beim Putzen, Aufräumen oder bei anderen Haushaltsarbeiten, damit Sie sich rundum wohlfühlen können.
 
-{{< img src="" >}}
+{{< img src="https://cdn.pixabay.com/photo/2019/04/02/17/13/house-4098245_960_720.jpg" >}}
 
 ## 2. Kochen
 
 Gemeinsames Kochen kann eine Quelle der Freude und des Genusses sein. Wir unterstützen Sie gerne bei der Zubereitung Ihrer Lieblingsgerichte, egal ob es sich um traditionelle Gerichte handelt oder um neue Rezepte, die Sie ausprobieren möchten.
 
-{{< img src="" >}}
+{{< img src="https://cdn.pixabay.com/photo/2014/05/11/17/28/art-342113_960_720.jpg" >}}
 
 ## 3. Putzen
 

@@ -56,8 +56,8 @@ Ich entwickle Webseiten, die mehrsprachig und international ausgerichtet sind. D
 
 Sie haben Interesse an meinen Dienstleistungen oder Fragen zu meinem Angebot? Zögern Sie nicht, mich zu kontaktieren:
 
-- **E-Mail**: [info@meinwebentwickler.de](mailto:info@meinwebentwickler.de)
-- **Telefon**: +49 123 456789
-- **Webseite**: [www.meinwebentwickler.de](http://www.meinwebentwickler.de)
+- **E-Mail**: [info@stegemann.app](mailto:info@stegemann.app)
+- **Telefon**: +49 151 1606 4346
+- **Webseite**: [www.stegemann.app](https://www.stegemann.app)
 
 Ich freue mich darauf, mit Ihnen zusammenzuarbeiten und Ihre Online-Präsenz zu optimieren!

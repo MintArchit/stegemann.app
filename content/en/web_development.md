@@ -6,7 +6,7 @@ draft = false
 
 # Web Development - Your Partner for Custom Web Solutions
 
-![Web Development](https://example.com/webentwicklung.jpg)
+{{< img src="" >}}
 
 {{< toc >}}
 
@@ -18,25 +18,25 @@ I am a freelance web developer focused on providing custom web solutions for sma
 
 ### Domain Rental
 
-![Domain Rental](https://example.com/domainvermietung.jpg)
+{{< img src="" >}}
 
 I offer domain rental services to help you get started in the online world. You can benefit from my experience and rely on the secure and reliable management of your domain.
 
 ### Web Server Setup
 
-![Web Server](https://example.com/webserver.jpg)
+{{< img src="" >}}
 
 Setting up and managing web servers is one of my core competencies. I ensure that your website is always available and offers optimal performance.
 
 ### Mail and Calendar Systems
 
-![Mail and Calendar Systems](https://example.com/mailkalender.jpg)
+{{< img src="" >}}
 
 I set up professional mail and calendar systems tailored to your needs. This includes secure management of your emails and integration of calendar functions for better organization.
 
 ### Custom Frontend Development
 
-![Frontend Development](https://example.com/frontend.jpg)
+{{< img src="" >}}
 
 Developing custom, multilingual frontends for representative websites is my specialty. Each project is individually designed to optimally present your brand and reach your target audience.
 
@@ -52,12 +52,12 @@ I develop websites that are multilingual and internationally oriented. This allo
 
 ## Contact
 
-![Contact](https://example.com/kontakt.jpg)
+{{< img src="" >}}
 
 Are you interested in my services or have questions about my offer? Don't hesitate to contact me:
 
-- **Email**: [info@meinwebentwickler.de](mailto:info@meinwebentwickler.de)
-- **Phone**: +49 123 456789
-- **Website**: [www.meinwebentwickler.de](http://www.meinwebentwickler.de)
+- **Email**: [info@stegemann.app](mailto:info@stegemann.app)
+- **Phone**: +49 151 1606 4346
+- **Website**: [www.stegemann.app](https://www.stegemann.app)
 
 I look forward to working with you and optimizing your online presence!
