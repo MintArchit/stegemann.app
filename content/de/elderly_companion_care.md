@@ -121,9 +121,7 @@ Verlassen Sie sich auf unsere technische Expertise, um Ihre Geräte zu optimiere
 
 {{< img src="https://images.pexels.com/photos/7545267/pexels-photo-7545267.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" >}}
 
-
-
-## 17.  Reisedienste – Unbeschwert die Welt entdecken
+## 16.  Reisedienste – Unbeschwert die Welt entdecken
 
 Barrierefreie Reisedienste – Die Welt entdecken, ohne Grenzen
 
@@ -131,13 +129,13 @@ Barrierefreie Reisedienste bieten eine sichere und komfortable Planung für alle
 
 {{< img src="https://images.unsplash.com/photo-1706700997799-9398c3a1a5e6?q=80&w=1172&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D " >}}
 
-## 18. Massage 
+## 17. Massage 
 
 Massage-Dienste bieten maßgeschneiderte Behandlungen zur Stressbewältigung und Förderung des Wohlbefindens. Mit verschiedenen Techniken wie tiefen Gewebe- und Aromatherapiemassagen zielen sie darauf ab, Verspannungen zu lösen und die körperliche Gesundheit zu verbessern. Diese Dienste bieten flexible Terminoptionen und sind an verschiedenen Orten verfügbar, um den Bedürfnissen der Kunden gerecht zu werden.
 
 {{< img src="https://plus.unsplash.com/premium_photo-1661284842157-cf6f537fd7dc?q=80&w=1169&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D " >}}
 
-## 19. Trauer bewältigen
+## 18. Trauer bewältigen
 
 Wir verstehen, dass Trauer nach dem Verlust eines geliebten Menschen tiefgreifend und individuell ist. Daher bieten wir spezielle Dienstleistungen an, die Ihnen helfen können, den Schmerz zu lindern und wieder Hoffnung zu finden:
 Individuelle Gesprächstherapie, Ritualbegleitung, Beratung zur Selbstfürsorge etc. 
@@ -145,13 +143,13 @@ Unser Ziel ist es, Ihnen durch diese herausfordernde Zeit zu helfen und Ihnen di
 
 {{< img src="https://images.unsplash.com/photo-1498872270484-7ffbfa6951ed?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" >}}
 
-## 20. Schwangerschaftshilfe
+## 19. Schwangerschaftshilfe
 
 Schwangerschaft kann eine aufregende, aber auch herausfordernde Zeit sein. Wir stehen Ihnen zur Seite, um Sie bei Ihren Bedürfnissen während der Schwangerschaft zu unterstützen, sei es bei der Hausarbeit, der Organisation von Terminen oder einfach nur als emotionale Unterstützung.
 
 {{< img src="https://images.pexels.com/photos/7088841/pexels-photo-7088841.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" >}}
 
-## 21. Unterstützung bei Behördengängen und Formularen
+## 20. Unterstützung bei Behördengängen und Formularen
 
 Unterstützung bei Behördengängen und Formularen
 
@@ -162,12 +160,12 @@ Unser Ziel ist es, Ihnen den Umgang mit bürokratischen Hürden zu erleichtern u
 
 {{< img src="https://images.pexels.com/photos/407422/pexels-photo-407422.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1 " >}}
 
-## 22. Unterstützung bei der Abrechnung mit der Pflegekasse
+## 21. Unterstützung bei der Abrechnung mit der Pflegekasse
 
 Die Abrechnung mit der Pflegekasse kann kompliziert sein. Wir unterstützen Sie gerne bei der Abrechnung, um sicherzustellen, dass Sie die finanzielle Unterstützung erhalten, die Ihnen zusteht.
 {{< img src="https://images.pexels.com/photos/8815840/pexels-photo-8815840.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" >}}
 
-## 23. Und viel mehr.....
+## 22. Und viel mehr.....
 
 Fragen Sie uns einfach nach Ihren Bedürfnissen und lassen Sie uns wissen, wie wir Ihnen helfen können.
 
