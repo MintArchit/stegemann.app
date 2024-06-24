@@ -6,8 +6,6 @@ draft = false
 
 # Visitor and Companion Services
 
-# Daily Support Services for Adults and Seniors
-
 We offer personalized support in daily life to enable you to live a self-determined and comfortable life in your own home. Our loving and competent team assists you with various tasks, from household management to shopping, companionship, and social activities. Our services aim to make your everyday life easier, provide company, and improve your quality of life. Whatever support you need – we are here for you.
 
 {{< toc >}}
