@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>STEGEMANN. IT.</title>
+    <link>http://localhost:1313/en/</link>
+    <description>Recent content on STEGEMANN. IT.</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 15 Jun 2024 22:30:00 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Android Development</title>
+      <link>http://localhost:1313/en/android_development/</link>
+      <pubDate>Sat, 15 Jun 2024 22:30:00 +0200</pubDate>
+      <guid>http://localhost:1313/en/android_development/</guid>
+      <description>Welcome to Stegemann App Gallery About Me Philosophy of App Development Focus on Open Source Privacy and Security Modern UI Design Small Apps for Market Niches Contact About Me As a self-employed Android app developer, I specialize in creating small and useful applications for the market. My passion lies in developing apps that can enhance and simplify daily life.&#xA;Philosophy of App Development My approach to app development is characterized by creativity, user-friendliness, and technical excellence.</description>
+    </item>
+    <item>
+      <title>Web_development</title>
+      <link>http://localhost:1313/en/web_development/</link>
+      <pubDate>Sat, 15 Jun 2024 22:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/en/web_development/</guid>
+      <description>Web Development - Your Partner for Custom Web Solutions About Me Services Domain Rental Web Server Setup Mail and Calendar Systems Custom Frontend Development Benefits for Small and Medium-Sized Enterprises Multilingualism and Internationalization Contact About Me I am a freelance web developer focused on providing custom web solutions for small, medium-sized, and family businesses. Despite my recent start in self-employment and the lack of current client projects, I offer extensive experience and a personal website that reflects my skills and commitment.</description>
+    </item>
+    <item>
+      <title>Visitor and Companion Services</title>
+      <link>http://localhost:1313/en/elderly_companion_care/</link>
+      <pubDate>Sat, 15 Jun 2024 19:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/en/elderly_companion_care/</guid>
+      <description>Visitor and Companion Services Daily Support Services for Adults and Seniors We offer personalized support in daily life to enable you to live a self-determined and comfortable life in your own home. Our loving and competent team assists you with various tasks, from household management to shopping, companionship, and social activities. Our services aim to make your everyday life easier, provide company, and improve your quality of life. Whatever support you need – we are here for you.</description>
+    </item>
+    <item>
+      <title>Privacy Policy</title>
+      <link>http://localhost:1313/en/privacy/</link>
+      <pubDate>Sat, 15 Jun 2024 14:58:00 +0200</pubDate>
+      <guid>http://localhost:1313/en/privacy/</guid>
+      <description>Privacy Policy I am pleased about your interest in my company and your visit to my website. The protection of your personal data is an important concern for me. Therefore, I would like to inform you about the processing of personal data in the context of using my website and clarify the rights you are entitled to.&#xA;Controller, Data Protection Officer The responsible entity according to Art. 4 Para. 7 of the EU General Data Protection Regulation (GDPR) is</description>
+    </item>
+    <item>
+      <title>Legal_notice</title>
+      <link>http://localhost:1313/en/legal_notice/</link>
+      <pubDate>Wed, 12 Jun 2024 12:47:10 +0200</pubDate>
+      <guid>http://localhost:1313/en/legal_notice/</guid>
+      <description>Legal Notice Kevin Stegemann&#xA;Hohegrabenweg 62 40667 Meerbusch Germany&#xA;Telephone: +49 151 1606 4346&#xA;Internet: www.stegemann.app impressum@stegemann.app&#xA;VAT ID: Not yet assigned&#xA;Legal notices Trademark, copyright and other protective rights All rights, in particular trademark, copyright and other protective rights are reserved. All texts, images, animation and video files and other content on my website are subject to copyright, trademark law (in particular trademark law) and other laws protecting intellectual property and general personal rights.</description>
+    </item>
+  </channel>
+</rss>

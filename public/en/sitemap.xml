@@ -2,106 +2,106 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/android_development/</loc>
+    <loc>http://localhost:1313/en/android_development/</loc>
     <lastmod>2024-06-15T22:30:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de-DE"
-                href="http://localhost:1313/de/android_development/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
                 href="http://localhost:1313/android_development/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/android_development/"
+                />
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://localhost:1313/en/</loc>
     <lastmod>2024-06-15T22:30:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de-DE"
-                href="http://localhost:1313/de/"
+                href="http://localhost:1313/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/"
+                href="http://localhost:1313/en/"
                 />
   </url><url>
-    <loc>http://localhost:1313/web_development/</loc>
+    <loc>http://localhost:1313/en/web_development/</loc>
     <lastmod>2024-06-15T22:00:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de-DE"
-                href="http://localhost:1313/de/web_development/"
+                href="http://localhost:1313/web_development/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/web_development/"
+                href="http://localhost:1313/en/web_development/"
                 />
   </url><url>
-    <loc>http://localhost:1313/elderly_companion_care/</loc>
+    <loc>http://localhost:1313/en/elderly_companion_care/</loc>
     <lastmod>2024-06-15T19:00:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de-DE"
-                href="http://localhost:1313/de/elderly_companion_care/"
+                href="http://localhost:1313/elderly_companion_care/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/elderly_companion_care/"
+                href="http://localhost:1313/en/elderly_companion_care/"
                 />
   </url><url>
-    <loc>http://localhost:1313/privacy/</loc>
+    <loc>http://localhost:1313/en/privacy/</loc>
     <lastmod>2024-06-15T14:58:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de-DE"
-                href="http://localhost:1313/de/privacy/"
+                href="http://localhost:1313/privacy/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/privacy/"
+                href="http://localhost:1313/en/privacy/"
                 />
   </url><url>
-    <loc>http://localhost:1313/legal_notice/</loc>
+    <loc>http://localhost:1313/en/legal_notice/</loc>
     <lastmod>2024-06-12T12:47:10+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de-DE"
-                href="http://localhost:1313/de/legal_notice/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
                 href="http://localhost:1313/legal_notice/"
                 />
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-DE"
-                href="http://localhost:1313/de/categories/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
+                href="http://localhost:1313/en/legal_notice/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-DE"
                 href="http://localhost:1313/categories/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/categories/"
+                />
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://localhost:1313/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de-DE"
-                href="http://localhost:1313/de/tags/"
+                href="http://localhost:1313/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/tags/"
+                href="http://localhost:1313/en/tags/"
                 />
   </url>
 </urlset>

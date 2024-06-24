@@ -28,7 +28,7 @@ privacy:
     disable: false
     privacyEnhanced: true
 
-defaultContentLanguage: en
+defaultContentLanguage: de
 languages:
   de:
     contentDir: content/de
