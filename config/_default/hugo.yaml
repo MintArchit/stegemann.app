@@ -1,5 +1,11 @@
 title: STEGEMANN. IT.
 baseURL: https://stegemann.app/
+relativeURLS: true
+
+module:
+  module.mounts:
+    source: "node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"
+    target: "assets/js/bootstrap.bundle.min.js"
 
 markup:
   tableOfContents:

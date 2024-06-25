@@ -1,0 +1,26 @@
+{
+  "name": "stegemann.app",
+  "version": "1.0.0",
+  "description": "Stegemann.app Main Page",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MintArchit/stegemann.app.git"
+  },
+  "keywords": [
+    "Stegemann.app"
+  ],
+  "author": "MintArchit",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/MintArchit/stegemann.app/issues"
+  },
+  "homepage": "https://github.com/MintArchit/stegemann.app#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "bootstrap-icons": "^1.11.3"
+  }
+}
