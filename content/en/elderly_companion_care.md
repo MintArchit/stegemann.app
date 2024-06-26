@@ -136,12 +136,6 @@ We understand that grief after the loss of a loved one is profound and individua
 
 {{< img src="https://images.unsplash.com/photo-1498872270484-7ffbfa6951ed?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" >}}
 
-## Pregnancy Assistance
-
-Pregnancy can be an exciting but also challenging time. We are here to support you with your needs during pregnancy, whether it's housework, organizing appointments, or just providing emotional support.
-
-{{< img src="https://images.pexels.com/photos/7088841/pexels-photo-7088841.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" >}}
-
 ## Assistance with Administrative Tasks and Forms
 
 We understand that administrative tasks and filling out forms can often be challenging and stressful, especially in difficult times. Therefore, we offer targeted support for these tasks, including official accompaniment and assistance with filling out forms. Our goal is to make dealing with bureaucratic hurdles easier for you and ensure that your concerns are handled correctly and on time. Let us help you manage the bureaucratic workload so you can focus on more important things.

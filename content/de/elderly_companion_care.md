@@ -143,12 +143,6 @@ Unser Ziel ist es, Ihnen durch diese herausfordernde Zeit zu helfen und Ihnen di
 
 {{< img src="https://images.unsplash.com/photo-1498872270484-7ffbfa6951ed?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" >}}
 
-## Schwangerschaftshilfe
-
-Schwangerschaft kann eine aufregende, aber auch herausfordernde Zeit sein. Wir stehen Ihnen zur Seite, um Sie bei Ihren Bedürfnissen während der Schwangerschaft zu unterstützen, sei es bei der Hausarbeit, der Organisation von Terminen oder einfach nur als emotionale Unterstützung.
-
-{{< img src="https://images.pexels.com/photos/7088841/pexels-photo-708884jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" >}}
-
 ## Unterstützung bei Behördengängen und Formularen
 
 Unterstützung bei Behördengängen und Formularen
