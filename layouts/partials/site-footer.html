@@ -57,7 +57,13 @@
 <!-- JavaScript and dependencies -->
 {{ partial "site-scripts.html" . }}
 
-{{ $bootstrap := resources.Get "js/bootstrap.bundle.min.js" }}
-{{/* $js := slice $bootstrap | resources.Concat "js/bundle.js" | resources.Minify */}}
-
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+{{/* Load Bootstrap JS. */}}
+{{ $js := resources.Get "js/index.js" }}
+{{ $params := dict }}
+{{ $sourceMap := cond hugo.IsProduction "" "inline" }}
+{{ $opts := dict "sourceMap" $sourceMap "minify" hugo.IsProduction "target" "es2018" "params" $params }}
+{{ $js = $js | js.Build $opts }}
+{{ if hugo.IsProduction }}
+{{ $js = $js | fingerprint }}
+{{ end }}  
+<script src="{{ $js.RelPermalink }}" {{ if hugo.IsProduction }}integrity="{{ $js.Data.Integrity }}"{{ end }} defer></script>
