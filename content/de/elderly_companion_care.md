@@ -46,7 +46,7 @@ Verlassen Sie sich auf unseren Service für makellos gebügelte Kleidung und ein
 
 {{< img src="https://images.pexels.com/photos/5202928/pexels-photo-5202928.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" >}}
 
-##. Gartenarbeit
+## Gartenarbeit
 
 Ein gepflegter Garten kann eine Quelle der Freude und Entspannung sein. Wir helfen Ihnen gerne bei der Pflege und Gestaltung Ihres Gartens, damit er zu einem Ort wird, an dem Sie gerne Zeit verbringen.
 
