@@ -132,13 +132,16 @@ Massage services offer tailored treatments for stress management and promoting w
 
 ## Coping with Grief
 
-We understand that grief after the loss of a loved one is profound and individual. Therefore, we offer special services to help you alleviate the pain and find hope again: individual talk therapy, ritual accompaniment, self-care advice, etc. Our goal is to help you through this challenging time and provide you with the tools you need to cope with the grieving process and find hope again.
+We understand that grief after the loss of a loved one is profound and individual. Therefore, we offer special services to help you alleviate the pain and find hope again: 
+individual talk therapy, ritual accompaniment, self-care advice, etc. Our goal is to help you through this challenging time and provide you with the tools you need to cope with the grieving process and find hope again.
 
 {{< img src="https://images.unsplash.com/photo-1498872270484-7ffbfa6951ed?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" >}}
 
 ## Assistance with Administrative Tasks and Forms
 
-We understand that administrative tasks and filling out forms can often be challenging and stressful, especially in difficult times. Therefore, we offer targeted support for these tasks, including official accompaniment and assistance with filling out forms. Our goal is to make dealing with bureaucratic hurdles easier for you and ensure that your concerns are handled correctly and on time. Let us help you manage the bureaucratic workload so you can focus on more important things.
+We understand that administrative tasks and filling out forms can often be challenging and stressful, especially in difficult times. Therefore, we offer targeted support for these tasks, including official accompaniment and assistance with filling out forms. 
+
+Our goal is to make dealing with bureaucratic hurdles easier for you and ensure that your concerns are handled correctly and on time. Let us help you manage the bureaucratic workload so you can focus on more important things.
 
 {{< img src="https://images.pexels.com/photos/407422/pexels-photo-407422.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" >}}
 
@@ -158,5 +161,8 @@ Customer-centered service: Your well-being is at the heart of our actions.
 Flexibility: We are open to your requests and strive to serve you in the best possible way.
 
 Contact us – WE ARE HERE TO HELP YOU!
+
+Mobil: +49 151 1606 4346    
+E-Mail: [lfb.dienst@stegemann.app](mailto:lfb.dienst@stegemann.app)
 
 {{< img src="https://images.pexels.com/photos/15387086/pexels-photo-15387086/free-photo-of-text-briefe-buchstaben-wurfel.jpeg" >}}
