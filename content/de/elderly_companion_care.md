@@ -6,9 +6,6 @@ draft = false
 
 # Besuchsdienste & Begleitdienste
 
-
-Alltagsunterstützungsdienste für Erwachsene und Senioren
-
 Wir bieten maßgeschneiderte Unterstützung im täglichen Leben, um Ihnen ein selbstbestimmtes und angenehmes Leben in Ihrem eigenen Zuhause zu ermöglichen. Unser liebevolles und kompetentes Team steht Ihnen bei verschiedensten Aufgaben zur Seite, von der Haushaltsführung über Einkäufe bis hin zu Begleitungen und sozialen Aktivitäten. Unsere Dienstleistungen zielen darauf ab, Ihren Alltag zu erleichtern, Ihnen Gesellschaft zu leisten und Ihre Lebensqualität zu verbessern. Ganz gleich, welche Unterstützung Sie benötigen – wir sind für Sie da.
 
 {{< toc >}}
@@ -42,7 +39,6 @@ Eine ordentlich gebügelte Wäsche kann den Alltag erleichtern und für ein ange
 - **Flexibilität**: Termine nach Ihrem Bedarf und Ihrer Bequemlichkeit.
 
 Verlassen Sie sich auf unseren Service für makellos gebügelte Kleidung und einen stressfreien Alltag!
-
 
 {{< img src="https://images.pexels.com/photos/5202928/pexels-photo-5202928.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" >}}
 
@@ -87,7 +83,6 @@ Manchmal ist es wichtig, jemanden zum Reden zu haben. Wir sind für Sie da, um z
 Arzt- und Krankenhausbesuche können stressig sein, besonders wenn Sie alleine sind. Wir begleiten Sie sicher und zuverlässig zu Ihren Terminen, um sicherzustellen, dass Sie die Unterstützung erhalten, die Sie brauchen.
 
 {{< img src="https://images.pexels.com/photos/5215013/pexels-photo-5215013.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" >}}
-
 
 ## Entlastung für Familien
 
@@ -138,17 +133,13 @@ Massage-Dienste bieten maßgeschneiderte Behandlungen zur Stressbewältigung und
 ## Trauer bewältigen
 
 Wir verstehen, dass Trauer nach dem Verlust eines geliebten Menschen tiefgreifend und individuell ist. Daher bieten wir spezielle Dienstleistungen an, die Ihnen helfen können, den Schmerz zu lindern und wieder Hoffnung zu finden:
-Individuelle Gesprächstherapie, Ritualbegleitung, Beratung zur Selbstfürsorge etc. 
-Unser Ziel ist es, Ihnen durch diese herausfordernde Zeit zu helfen und Ihnen die Werkzeuge zu geben, die Sie benötigen, um den Trauerprozess zu bewältigen und wieder Hoffnung zu finden.
+Individuelle Gesprächstherapie, Ritualbegleitung, Beratung zur Selbstfürsorge etc. Unser Ziel ist es, Ihnen durch diese herausfordernde Zeit zu helfen und Ihnen die Werkzeuge zu geben, die Sie benötigen, um den Trauerprozess zu bewältigen und wieder Hoffnung zu finden.
 
 {{< img src="https://images.unsplash.com/photo-1498872270484-7ffbfa6951ed?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" >}}
 
 ## Unterstützung bei Behördengängen und Formularen
 
-Unterstützung bei Behördengängen und Formularen
-
-Wir verstehen, dass Behördengänge und das Ausfüllen von Formularen oft eine herausfordernde und stressige Aufgabe sein können, besonders in schwierigen Zeiten. Daher bieten wir Ihnen gezielte Unterstützung bei diesen Aufgaben an.
-Amtliche Begleitung und Unterstützung beim Ausfüllen von Formularen
+Wir verstehen, dass Behördengänge und das Ausfüllen von Formularen oft eine herausfordernde und stressige Aufgabe sein können, besonders in schwierigen Zeiten. Daher bieten wir Ihnen gezielte Unterstützung bei diesen Aufgaben an.Amtliche Begleitung und Unterstützung beim Ausfüllen von Formularen
 
 Unser Ziel ist es, Ihnen den Umgang mit bürokratischen Hürden zu erleichtern und sicherzustellen, dass Ihre Anliegen korrekt und fristgerecht bearbeitet werden. Lassen Sie uns Ihnen helfen, den bürokratischen Aufwand zu bewältigen, damit Sie sich auf wichtigere Dinge konzentrieren können.
 
@@ -157,6 +148,7 @@ Unser Ziel ist es, Ihnen den Umgang mit bürokratischen Hürden zu erleichtern u
 ## Unterstützung bei der Abrechnung mit der Pflegekasse
 
 Die Abrechnung mit der Pflegekasse kann kompliziert sein. Wir unterstützen Sie gerne bei der Abrechnung, um sicherzustellen, dass Sie die finanzielle Unterstützung erhalten, die Ihnen zusteht.
+
 {{< img src="https://images.pexels.com/photos/8815840/pexels-photo-8815840.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" >}}
 
 ## Und viel mehr.....
@@ -169,5 +161,8 @@ Kundenzentrierter Service: Ihr Wohlbefinden steht im Mittelpunkt unseres Handeln
 Flexibilität: Wir sind offen für Ihre Anfragen und bemühen uns, Ihnen bestmöglich zu dienen.
 
 Kontaktieren Sie uns – WIR SIND HIER, UM IHNEN ZU HELFEN!
+
+Mobil: +49 151 1606 4346    
+E-Mail: [lfb.dienst@stegemann.app](mailto:lfb.dienst@stegemann.app)
 
 {{< img src="https://images.pexels.com/photos/15387086/pexels-photo-15387086/free-photo-of-text-briefe-buchstaben-wurfel.jpeg" >}}
