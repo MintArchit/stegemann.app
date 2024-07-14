@@ -61,6 +61,11 @@ menus:
     pageRef: android_development
     url: android_development
     weight: 30
+  - identifier: career
+    name: career
+    pageRef: career
+    url: career
+    weight: 40
   footer:
   - identifier: privacy
     name: Privacy Policy
