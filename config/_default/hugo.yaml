@@ -46,11 +46,6 @@ languages:
 
 menus:
   header:
-  - identifier: elderly_companion_care
-    name: Elderly Companion Care
-    pageRef: elderly_companion_care
-    url: elderly_companion_care
-    weight: 10
   - identifier: web_development
     name: Web Development
     pageRef: web_development
