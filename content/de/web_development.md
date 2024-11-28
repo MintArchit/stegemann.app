@@ -6,7 +6,7 @@ draft = false
 
 # Webentwicklung - Ihr Partner für maßgeschneiderte Weblösungen
 
-![Webentwicklung](https://example.com/webentwicklung.jpg)
+{{< img src="https://images.unsplash.com/photo-1654610285929-a1b63280dd60" >}}
 
 {{< toc >}}
 
@@ -18,25 +18,25 @@ Ich bin ein selbständiger Webentwickler mit einem Fokus auf maßgeschneiderte W
 
 ### Domainvermietung
 
-{{< img src="" >}}
+{{< img src="https://cdn.pixabay.com/photo/2016/04/13/22/44/web-design-1327873_1280.png" >}}
 
 Ich biete die Vermietung von Domains an, um Ihnen den Einstieg in die Online-Welt zu erleichtern. Sie können von meiner Erfahrung profitieren und sich darauf verlassen, dass Ihre Domain sicher und zuverlässig verwaltet wird.
 
 ### Webserver-Einrichtung
 
-{{< img src="" >}}
+{{< img src="https://images.unsplash.com/photo-1558494949-ef010cbdcc31" >}}
 
 Die Einrichtung und Verwaltung von Webservern gehört zu meinen Kernkompetenzen. Ich sorge dafür, dass Ihre Webseite stets verfügbar ist und eine optimale Performance bietet.
 
 ### Mail- und Kalendersysteme
 
-{{< img src="" >}}
+{{< img src="https://images.unsplash.com/photo-1683117927786-f146451082fb" >}}
 
 Ich richte für Sie professionelle Mail- und Kalendersysteme ein, die auf Ihre Bedürfnisse abgestimmt sind. Dies umfasst die sichere Verwaltung Ihrer E-Mails und die Integration von Kalenderfunktionen zur besseren Organisation.
 
 ### Individuelle Frontend-Entwicklung
 
-{{< img src="" >}}
+{{< img src="https://images.unsplash.com/photo-1522542550221-31fd19575a2d" >}}
 
 Die Entwicklung maßgeschneiderter, mehrsprachiger Frontends für repräsentative Webseiten ist meine Spezialität. Jedes Projekt wird individuell gestaltet, um Ihre Marke optimal zu präsentieren und Ihre Zielgruppe anzusprechen.
 
@@ -52,7 +52,7 @@ Ich entwickle Webseiten, die mehrsprachig und international ausgerichtet sind. D
 
 ## Kontakt
 
-{{< img src="" >}}
+{{< img src="https://images.unsplash.com/photo-1611606063065-ee7946f0787a" >}}
 
 Sie haben Interesse an meinen Dienstleistungen oder Fragen zu meinem Angebot? Zögern Sie nicht, mich zu kontaktieren:
 

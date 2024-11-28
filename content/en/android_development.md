@@ -31,7 +31,7 @@ An appealing and modern UI design is crucial for enhancing user experience. My a
 
 Rather than developing large, comprehensive applications, I focus on small tools and simple games. These target specific market segments, offering direct and practical solutions.
 
-{{< img src="" >}}
+{{< img src="https://images.unsplash.com/photo-1649451844802-f444b7885ec1" >}}
 
 ## Contact
 
