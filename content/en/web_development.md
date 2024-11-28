@@ -6,7 +6,7 @@ draft = false
 
 # Web Development - Your Partner for Custom Web Solutions
 
-{{< img src="" >}}
+{{< img src="https://images.unsplash.com/photo-1654610285929-a1b63280dd60" >}}
 
 {{< toc >}}
 
@@ -18,25 +18,25 @@ I am a freelance web developer focused on providing custom web solutions for sma
 
 ### Domain Rental
 
-{{< img src="" >}}
+{{< img src="https://cdn.pixabay.com/photo/2016/04/13/22/44/web-design-1327873_1280.png" >}}
 
 I offer domain rental services to help you get started in the online world. You can benefit from my experience and rely on the secure and reliable management of your domain.
 
 ### Web Server Setup
 
-{{< img src="" >}}
+{{< img src="https://images.unsplash.com/photo-1558494949-ef010cbdcc31" >}}
 
 Setting up and managing web servers is one of my core competencies. I ensure that your website is always available and offers optimal performance.
 
 ### Mail and Calendar Systems
 
-{{< img src="" >}}
+{{< img src="https://images.unsplash.com/photo-1683117927786-f146451082fb" >}}
 
 I set up professional mail and calendar systems tailored to your needs. This includes secure management of your emails and integration of calendar functions for better organization.
 
 ### Custom Frontend Development
 
-{{< img src="" >}}
+{{< img src="https://images.unsplash.com/photo-1522542550221-31fd19575a2d" >}}
 
 Developing custom, multilingual frontends for representative websites is my specialty. Each project is individually designed to optimally present your brand and reach your target audience.
 
@@ -52,7 +52,7 @@ I develop websites that are multilingual and internationally oriented. This allo
 
 ## Contact
 
-{{< img src="" >}}
+{{< img src="https://images.unsplash.com/photo-1611606063065-ee7946f0787a" >}}
 
 Are you interested in my services or have questions about my offer? Don't hesitate to contact me:
 

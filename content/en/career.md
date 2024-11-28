@@ -12,7 +12,7 @@ draft = false
 
 ## Contact
 
-{{< img src="" >}}
+{{< img src="https://images.unsplash.com/photo-1611606063065-ee7946f0787a" >}}
 
 - **E-Mail**: [career@stegemann.app](mailto:career@stegemann.app)
-- **Telefon**: +49 151 1606 4346
+- **Telefon**: +0049 151 1606 4346
